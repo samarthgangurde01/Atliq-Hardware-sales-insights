@@ -105,12 +105,13 @@ Data cleaning(Converting USD amount into rupees)
 ![image](https://user-images.githubusercontent.com/93859458/171047773-36fc9f75-8ced-4af1-9bc5-235ee5ef243b.png)
 
 Finall powerBI Dashboard
-Sales insights of year 2017
+Sales insights of year 2019
 ![image](https://user-images.githubusercontent.com/93859458/171049309-f00367d0-96cf-4ef3-958d-b83dce85ba98.png)
 Sales insights of year 2020
 ![image](https://user-images.githubusercontent.com/93859458/171049506-c438fdb4-58c8-45da-bfa3-ce951c7a87c3.png)
 
 ## Feedback
 
-If you have any feedback, please reach out to us at samarthgangurde01.com
+If you have any feedback, please reach out to us at samarthgangurde01@gmail.com
+
 
