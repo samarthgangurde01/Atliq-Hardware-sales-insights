@@ -94,19 +94,23 @@ SELECT distinct (currency) FROM sales.transactions;
 SELECT transactions.*, date.year FROM sales.transactions inner join date on transactions.order_date=date.date
 ```
  ![image](https://user-images.githubusercontent.com/93859458/171045584-345a882e-ee5d-40f6-9ac0-964d1ffdbdaf.png)
+
 ##We performed ETL steps (Extract,Transform,Load) in power BI
-we loaded the dataset from the sql data base
+* we loaded the dataset from the sql data base
 ![image](https://user-images.githubusercontent.com/93859458/171046849-9f6c6fc0-fdcd-4999-ae17-fa513bf2d691.png)
 
-Designed Star schema for the tables in dataset
+* Designed Star schema for the tables in dataset
 ![image](https://user-images.githubusercontent.com/93859458/171047218-66a84f00-9da3-4482-b4d5-eac9f724ac25.png)
 
-Data cleaning(Converting USD amount into rupees)
+* Data cleaning(Converting USD amount into rupees)
 ![image](https://user-images.githubusercontent.com/93859458/171047773-36fc9f75-8ced-4af1-9bc5-235ee5ef243b.png)
 
-Finall powerBI Dashboard
+* Finall powerBI Dashboard
 Sales insights of year 2019
 ![image](https://user-images.githubusercontent.com/93859458/171049309-f00367d0-96cf-4ef3-958d-b83dce85ba98.png)
+
+
+
 Sales insights of year 2020
 ![image](https://user-images.githubusercontent.com/93859458/171049506-c438fdb4-58c8-45da-bfa3-ce951c7a87c3.png)
 
