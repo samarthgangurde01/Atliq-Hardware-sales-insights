@@ -4,7 +4,7 @@
 ## Description
 In this project, i used the database of AtliQ Hardware. It is a company which supplies computer hardware and peripherals to many clients across India. The company has a head office in Dehli and regional offices throughout India.
 
-I tried to create a real world scenario in which the company's total revenue is declining every year. I used the database provided in the internet. Performed a data analysis and visualization in power BI with mysql database. It has all sales transactions, customers, products and markets information. Developed ETL mapping using SQL to extract the data from unstructured data and transfromed it to the staging area to conduct data cleaning and design star schema in Power BI.
+I tried to create a real world scenario in which the company's total revenue is declining every year. I used the database provided in the internet. Performed a data analysis and visualization in power BI with mysql database. It has all sales transactions, customers, products and markets information. Developed ETL mapping using SQL to extract the data from unstructured data and transfromed it to the staging area to conduct data cleaning and design star schema in Power BI. Created Dashboard to understand factors affecting on declining revenue. and we focused on Profit and Profit margin distribution in different markets, and different zones too.
 
 
 
