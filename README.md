@@ -116,6 +116,8 @@ Sales insights of year 2020
 
 ## Feedback
 
-If you have any feedback, please reach out to us at samarthgangurde01@gmail.com
+If you have any feedback, please reach out to us at 
+Gmail:- samarthgangurde01@gmail.com
+Linkedin:-https://www.linkedin.com/in/samarth-gangurde-b07875212/
 
 
